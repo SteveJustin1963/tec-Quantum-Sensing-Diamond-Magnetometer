@@ -11,6 +11,7 @@ is a scientific instrument that uses quantum phenomena to measure magnetic field
 
 ## SQUID
 A SQUID magnetometer is a type of scientific instrument that is used to measure extremely small magnetic fields. SQUID stands for "Superconducting Quantum Interference Device," and it is based on the principles of superconductivity and quantum mechanics. it consists of a superconducting loop that is interrupted by a pair of Josephson junctions. The junctions are extremely sensitive to magnetic fields, and they can be used to measure fields as small as a few femtotesla (10^-15 tesla). To use it, place the sample measured in the magnetometer's sensing volume, which is the region of space where the device can detect magnetic fields. It then measures the magnetic field at the sample and provides an output signal that is proportional to the field strength....are widely used in a variety of scientific and technical applications, including geophysics, biology, materials science, and medical imaging. They are particularly useful for measuring weak magnetic fields that are difficult to detect with other types of instruments.
+
 ![image](https://user-images.githubusercontent.com/58069246/210553666-bd2817fd-50f8-4d30-bebd-ee1eae3cb31c.png)
 ![image](https://user-images.githubusercontent.com/58069246/210553549-bd6450ba-5348-4145-ba53-de87ad94235b.png)
 ![image](https://user-images.githubusercontent.com/58069246/210554016-ed52acd9-6191-4dc6-b0f8-88a94ed22a7e.png)
